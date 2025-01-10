@@ -1,0 +1,4 @@
+name: Dragon-Level
+version: '${project.version}'
+main: pl.noname.dragonlevel.Main
+api-version: '1.19'
